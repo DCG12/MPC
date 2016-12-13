@@ -10,7 +10,7 @@
 
 
     <Button
-        android:text="Button"
+        android:text="Bombo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button"
@@ -26,7 +26,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:text="Button"
+        android:text="Caja"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button2"
